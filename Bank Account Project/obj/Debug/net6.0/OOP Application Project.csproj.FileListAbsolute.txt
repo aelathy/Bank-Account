@@ -1,0 +1,15 @@
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\bin\Debug\net6.0\OOP Application Project.exe
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\bin\Debug\net6.0\OOP Application Project.deps.json
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\bin\Debug\net6.0\OOP Application Project.runtimeconfig.json
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\bin\Debug\net6.0\OOP Application Project.dll
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\bin\Debug\net6.0\OOP Application Project.pdb
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.csproj.AssemblyReference.cache
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.AssemblyInfoInputs.cache
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.AssemblyInfo.cs
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.csproj.CoreCompileInputs.cache
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.dll
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\refint\OOP Application Project.dll
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.pdb
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\OOP Application Project.genruntimeconfig.cache
+C:\Users\alyel\Desktop\CS-30\OOP Application Project\obj\Debug\net6.0\ref\OOP Application Project.dll
